@@ -7,5 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Contact.create!([
-    {first_name: "Nikola", last_name: "Rasevic", email_address: "nikola@rasevic.io", phone_number: "202-966-0755", company_name: "Rasevic Engineering"}
+    {first_name: "Nikola", last_name: "Rasevic", email_address: "nikola@rasevic.io", phone_number: "202-966-0755", company_name: "Rasevic Engineering"},
+    {first_name: "Aleksandra", last_name: "Rasevic", email_address: "aleksandra@rasevic.io", phone_number: "202-966-0755", company_name: "Rasevic Engineering"},
+    {first_name: "Andrej", last_name: "Rasevic", email_address: "andrej@rasevic.io", phone_number: "202-966-0755", company_name: "Rasevic Engineering"},
+    {first_name: "Luka", last_name: "Rasevic", email_address: "luka@rasevic.io", phone_number: "202-966-0755", company_name: "Rasevic Engineering"}
 ])
